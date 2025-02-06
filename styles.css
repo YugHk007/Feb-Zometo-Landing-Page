@@ -46,4 +46,11 @@
     .navbar__menu_container .user_icon{
         display: flex;
     }
+
+    .link{
+        display: none;
+    }
+    .hero__section{
+        min-height: 80vh;
+    }
 }
